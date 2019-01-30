@@ -1,0 +1,45 @@
+body{
+    font:20px "Georgia",serif;
+    }
+    p.title{
+    font:bold 30px "Tahoma","榛戜綋",sans-serif;
+    color:#130080
+    }
+    p.subtitle{
+    font-size:120%;
+    color:#000080;
+    }
+    p.titlearea{
+    font-size:100%
+    }
+    p.section{
+    font-size:125%;
+    color:#000080
+    }
+    p.subsection{
+    font-size:110%;
+    color:#800000
+    }
+div.hi{
+    left:0px;
+    top:30px;
+    bottom: 30px;
+    width: 180px;
+    height: 1700px;
+    position: absolute;
+    background: #d8d8dd
+}
+div.hello{
+    position: absolute;
+
+    left: 200px;
+    right:100px;
+}
+#lar{
+    margin: 50px 0px;
+}
+li.large{
+  height: 50px;
+  margin: 20px 0px;
+}
+    
